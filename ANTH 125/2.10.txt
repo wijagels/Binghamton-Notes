@@ -1,0 +1,61 @@
+Controlling time and space
+
+Patterning
+	Key to archaeological interpretation
+	Patterning is a regular relationship between material objects and space
+	Usually products of nature are not patterned, whereas products of human action are
+	Artifacts are portable objects modified by human action
+	Features are non-portable human made remains
+	Ecofacts are natural remains that have cultural significance
+	Sites are locations of human activity, a spatial cluster of artifacts, features, and ecofacts
+	Human actions are patterned.  Dialectical relationship between human action and material patterns
+		The room is shaped by people, and the way you use the room is affected by the patterns in the room.  Example: lecture hall
+	Human action creates patterns even as the patterning of material things structures human action
+
+Use Wear
+	The use of artifacts and features to perform tasks usually leaves faint patterns of wear that can be used to infer the task they were used for.
+
+Time & Space
+	In a site:
+		Space is the 2 dimensional plane
+		Time is vertical patterning
+	Generally Archaeologists wish to control time so that they can look at human action in a given space
+	Settlement pattern analysis can be done at three levels
+		Activity Area
+			Place where humans did something
+		Community
+			Many activity areas, example is the Binghamton campus
+		Region
+			Several communities in the same geographic area
+	Settlement pattern analysis
+		Paleo-Indian site where 190 Bison were killed in a drive ~8,000 BC
+			Age and sex composition of herd indicated that the kill occurred in the summer
+			Patterning of bone in piles indicated animals were differently butchered
+			Total meat: 60,000 lbs.  150 people involved
+		Classic period Maya burials CE 300-850
+			Ranked burial goods by value
+			Grouped burials by period (early and late) and by location (ceremonial centers vs house mounds)
+				Early - few goods with women and children, rich male burials in house mounds
+				Late - all rich burials in centers, all poor burials in house mounds
+			Achieved status changes to ascribed status
+				Noble families who live in the centers instead of returning to house mounds
+
+	Dating, Two Types:
+		Chronometric / Absolute dating.  Dates events to a modern calendar
+			Carbon 14 dating
+				All living organisms contain carbon
+				2 forms of carbon, C12 and C14 (radioactive)
+				Ratio of C12 to C14 allows a calculation of the date
+				Can be used everywhere.  Method is good to 100,000 years ago
+			Dendro-Chronology (tree ring dating)
+				Trees add a ring each year
+				Stress (drought, cold) causes ring width to vary
+				Date is inferred from variations in ring width
+				Technique used in Southwest/Northwest, with limited use in N Eur. and NE US.  Good to 1,500 years ago
+		Relative dating.  Dates events relative to each other
+			Form or stylistic seriation
+				Styles change over time
+			Frequency seriation
+				Battleship graphs
+				James Deetz Colonial Gravestones
+					Massachusetts gravestones popularity changed over time
