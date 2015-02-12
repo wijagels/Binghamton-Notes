@@ -1,0 +1,88 @@
+Data Recovery: Survey & Excavation
+
+Research Design:
+	Precedes any data recovery: survey or excavation
+	Research design is a plan for doing research
+	Example of carter's search for King Tut's Tomb
+	Always include a discussion of sampling
+Archaeologists always sample
+	Can't dig every site or all portions of all sites
+	Can't collect all the data when dug
+	Sites do not contain all of past material culture
+
+Sampling
+	Population is the whole set of materials you wish to study
+	Sample is a subset of the population
+	Sample unit is each member of the population
+	Judgmental is based on judgment or prior knowledge
+		Bias is the prior knowledge
+	Systematic uses a patterned method for choosing sample units
+		Bias is the pattern or system
+	Random is where each unit has an equal chance of being in the sample
+		No bias
+	Haphazard is no formal method to select the sample units
+		Bias is unknown
+
+Verde Terrace site in Central Arizona
+	Hohokam Site, AD 900-1100
+	Judgmental sample of pits to find depth
+	Systematic sample of trenches to identify pithouses, found 15
+	Random numbers table used to select pithouses for excavation, dug 9
+
+We use samples to make estimates about the population
+	Accuracy - do the estimates reflect the population
+	Precision - how exactly do the estimates reflect the population
+
+Survey
+	Locating and describing the archaeological record from surface indications
+	Sites are often buried
+	Use exposures -- animals, and hills
+	Shovel test pits
+	Crop marks
+		Better growth in places where pits of soil are
+	Remote sensing
+
+Survey - GIS
+	GIS Links Maps and Data
+		Used in many fields
+		Look for patterns in spatial distributions
+		Least-cost effort analysis
+		Viewshed
+			See if the view from somewhere is nice
+
+Cerros de Trincheras
+	Sonoran Desert
+	Terraces, walls and structures
+	Why build on a hill?
+		Defense
+		Environment
+		Monumentality
+	Used GIS
+		Least cost and viewshed
+	Defense should limit least cost paths
+	Defense should limit viewshed
+	What was being defended?
+
+Excavation
+	Excavation is a series of compromises
+	Nature of site
+	Research question
+	Time and Money
+	What will happen to the site later
+	Vertical control site datum
+	Horizontal control site grid
+	Clearing excavations
+	Penetrating excavations
+Verde view sites in Central AZ
+	Contract excavation
+	Interstate bridge
+	1st excavation Randall did
+	To do an excavation you need
+		A Crew
+		Equipment
+		A place to live
+		Crappy field showers
+	Excavation process
+		Establish datum and horizontal grid
+		Systematic test pits
+		Find pithouse
