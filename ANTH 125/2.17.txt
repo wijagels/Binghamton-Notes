@@ -1,0 +1,72 @@
+Formation Process and Artifacts - how the archaeological record is created
+	Basic job of archeology is a search for patterning
+	Patterns in two contexts
+		Systemic context- pattern of artifacts when in use
+		Archaeological context - pattern in the ground = the Archaeological record
+	Two types of formation processes
+		Natural - result from the action of nature
+		Cultural - result of human action
+		Both types operate on all sites
+	Three factors determine natural formation processes
+		Nature of the climate
+			Good:
+				Little variation
+				Dry: southwest/northwest, Egypt
+				Cold: Arctic, High altitude (Alps, Andes)
+			Bad:
+				Wet: tropics
+				Variable: Eastern U.S., Europe
+		Nature of the deposit
+			Good - Constant conditions
+				1. Water logged - Boylston Street Fish Weir, 2 acre fish trap, 2,500 BC
+				2. Arid - King Tut's Tomb
+				3. Frozen - The Ice Man
+			Bad - Variable
+				- Shallow, sandy, acidic
+		Nature of the material
+			Excellent - preserve in all deposits
+				Ceramics, lithics (stone), carbonized, gold
+			Good - preserve in most deposits
+				Bone, antler, copper
+			Bad - preserve only in the best deposits
+				Wood, plants, cloth, paper, leather, iron
+	Natural Formation Processes
+		Herculaneum
+			Buried under hot pyroclastic flow, organic materials carbonized and preserved.  Bone, leather and other good materials preserved because fill is relatively impermeable.
+		Pompeii
+			Buried under porous ash, only excellent materials preserved. but unique phenomena of the plaster casts.
+			Not as good preservation as at Herculaneum
+
+	Cultural Formation Processes
+		De-facto refuse - catastrophic abandonment.  (Most desirable)
+		Primary refuse - materials deposited at the point of use.  (Desirable)
+		Secondary - material deposited away from the point of use.  (Least desirable)
+		Form archaeological contexts in 4 ways
+			A-A Disturbance - plowing, filling
+			S-A Deposition - loss, trash, catastrophe.  McKeller Hypothesis - size and loss of artifacts
+			A-S Reclamation - excavation, scavenging, pot hunting
+			S-S Reuse - recycling, lateral cycling
+	Ceramics
+		Extensively studied by Archaeologists
+		Ceramic vessels in daily use - common
+		Vessels are fragile but shards are durable
+		Additive technology with lots of variation
+		Made by firing clay to drive off structural H2O
+		Many ways to form vessels
+			- Hand mold, coil
+			- Coil
+			- Throw
+			- Slip mold
+		Myriad of ways to decorate
+			- Paint
+			- Applique
+			- Glaze
+	Lithics
+		Other major artifact category studied by archaeologists
+		Lithics are the oldest tools we find
+		Lithics preserve in virtually all deposits
+		Lithics are a common artifact type until they are replaced by metal
+		Lithics result from a reductive technology, meaning less variation
+		Flaked or chipped stone tools - formed by breaking stone to get sharp edges used for cutting, scraping, penetrating
+		Ground stone tools - formed by pecking and polishing used for grinding, polishing, chopping
+		
